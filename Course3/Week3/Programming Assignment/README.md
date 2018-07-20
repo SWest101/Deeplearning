@@ -1,2 +1,0 @@
-# Deeplearning
-Coursera Deeplearning course
